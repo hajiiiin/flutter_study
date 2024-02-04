@@ -1,16 +1,8 @@
-# flutter_study
+![스크린샷 2024-02-04 193820](https://github.com/hajiiiin/flutter_study/assets/101108440/cefa9b5b-52ff-45b8-9d5b-b8a46d06dc65)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Scaffold
+상중하로 화면 영역 나눔
+<p/>
+appBar : 상단 <br/>
+body : 중간 <br/>
+bottomNavigationBar : 하단
